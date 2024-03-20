@@ -47,6 +47,13 @@ export default function Page() {
       >
         Week 7 Assignment
       </Link>
+      <br />
+      <Link
+        href="week-8"
+        className="ml-52 text-xl hover:text-rose-700 hover:underline"
+      >
+        Week 8 Assignment
+      </Link>
     </main>
   );
 }
